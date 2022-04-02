@@ -1,7 +1,7 @@
 services:
   backend:
     build:
-      context: C:\Users\XXXX\AppData\Local\Temp\volume-compose-dev-env-wizardly_borg\backend
+\      context: C:\Users\XXXX\AppData\Local\Temp\volume-compose-dev-env-wizardly_borg\backend
       dockerfile: C:\Users\XXXX\AppData\Local\Temp\volume-compose-dev-env-wizardly_borg\backend\Dockerfile
       target: development
     depends_on:
